@@ -1,0 +1,4 @@
+http:web.whatsapp.com
+https://web.whatsapp.com/
+hello
+http:google.com
